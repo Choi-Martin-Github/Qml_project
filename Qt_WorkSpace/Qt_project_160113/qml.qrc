@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>images/Qt-logo-medium.png</file>
+        <file>gif files/test.gif</file>
+    </qresource>
+</RCC>

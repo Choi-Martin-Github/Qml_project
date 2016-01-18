@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>images/Qt-logo-medium.png</file>
+        <file>items.xml</file>
+        <file>LineEdit.qml</file>
+        <file>NewCheckBox.qml</file>
+        <file>images/checked.svg</file>
+        <file>images/lenna.jpg</file>
+    </qresource>
+</RCC>
